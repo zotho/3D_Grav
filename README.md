@@ -41,7 +41,7 @@ $ python3 main.py
 ### Controls:
 
 * _LMB_ – add planets
-* _Shift_ + LMB(or arrows) – rotate
+* _Shift + LMB(or arrows)_ – rotate
 * _D_ – show/hide debug
 * _Arrows and spacebar_ – control simulation speed
 * _Q_ – quit
